@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-27T12:00:00Z","type":"session_meta","payload":{"meta":{"id":"demo-thread-root-1111","session_id":"demo-session-aaaa","parent_thread_id":null,"forked_from_id":null}}}
+{"type":"response_item","payload":{"type":"message","role":"user","content":[{"type":"input_text","text":"synthetic fixture body must not be read"}]}}

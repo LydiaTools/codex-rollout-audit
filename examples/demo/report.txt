@@ -1,0 +1,8 @@
+Codex Rollout Audit — sessions
+Rollout files: 3 | families: 1 | total: 1.0 KiB
+Metadata read: 3 | compressed: 0 B | unavailable: 0 B
+
+FAMILY              FILES THREADS        TOTAL     SUBAGENT       FORKED
+family-6f24aca88906     3       3      1.0 KiB        359 B        363 B
+
+Conversation text was not read. This command did not modify any files.
