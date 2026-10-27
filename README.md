@@ -4,6 +4,8 @@
 
 Codex Rollout Audit is a small, read-only command-line report for local Codex rollout files. It totals file sizes and groups rollouts using the thread relationships recorded in Codex session metadata.
 
+![Synthetic fixture: three rollout files grouped into one family, totaling 1.0 KiB; conversation text is not read.](docs/demo-card.png)
+
 ## Why this exists
 
 Large local session files can be hard to attribute to the work that created them. Recent reports in the Codex issue tracker describe rollout storage reaching tens to hundreds of gigabytes, including cases involving subagents and forks. This tool helps answer a narrower, practical question: **which recorded session family accounts for the bytes on disk?**
